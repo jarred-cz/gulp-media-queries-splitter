@@ -6,7 +6,7 @@
 
 Install package with NPM and add it to your development dependencies:
 
-`npm install --save-dev gulp-media-queries-splitter`
+`npm install --save-dev jarred-cz/gulp-media-queries-splitter`
 
 ## Options
 
